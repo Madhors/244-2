@@ -1,0 +1,27 @@
+{
+  "function": {
+    "244268b52a89": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_244268b52a89_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "244268b52a89"
+        }
+      ]
+    },
+    "AMPLIFY_function_244268b52a89_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "244268b52a89"
+        }
+      ]
+    }
+  }
+}
